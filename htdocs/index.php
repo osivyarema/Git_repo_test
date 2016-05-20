@@ -1,2 +1,4 @@
 "Hello word"
 
+"Hello word"
+
